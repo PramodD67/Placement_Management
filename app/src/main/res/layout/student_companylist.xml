@@ -1,0 +1,208 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear3"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="5dp"
+		android:layout_marginBottom="5dp"
+		android:padding="5dp"
+		android:background="#FFFFFF"
+		android:gravity="center_vertical"
+		android:orientation="vertical">
+
+		<TextView
+			android:id="@+id/campany_name"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:focusable="false"
+			android:fontFamily="@font/poppins_medium"
+			android:paddingLeft="8dp"
+			android:paddingTop="3dp"
+			android:paddingRight="8dp"
+			android:paddingBottom="5dp"
+			android:textColor="#000000"
+			android:textSize="16sp"
+			android:textStyle="bold" />
+		<LinearLayout
+			android:id="@+id/linear4"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:paddingLeft="5dp"
+			android:paddingRight="5dp"
+			android:orientation="horizontal">
+
+			<TextView
+				android:id="@+id/textview1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:focusable="false"
+				android:fontFamily="@font/poppins_medium"
+				android:padding="8dp"
+				android:text="Recruitment Date "
+				android:textColor="#BDBDBD"
+				android:textSize="14sp" />
+
+			<TextView
+				android:id="@+id/date"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="right|center_vertical"
+				android:layout_weight="1"
+				android:focusable="false"
+				android:fontFamily="@font/poppins_medium"
+				android:gravity="right|center_vertical"
+				android:padding="8dp"
+				android:textColor="#000000"
+				android:textSize="14sp" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/linear5"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:paddingLeft="5dp"
+			android:paddingRight="5dp"
+			android:orientation="horizontal">
+
+			<TextView
+				android:id="@+id/textview3"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:focusable="false"
+				android:fontFamily="@font/poppins_medium"
+				android:padding="8dp"
+				android:text="Location"
+				android:textColor="#BDBDBD"
+				android:textSize="14sp" />
+
+			<TextView
+				android:id="@+id/location"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="right|center_vertical"
+				android:layout_weight="1"
+				android:focusable="false"
+				android:fontFamily="@font/poppins_medium"
+				android:gravity="right|center_vertical"
+				android:padding="8dp"
+				android:textColor="#000000"
+				android:textSize="14sp" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/linear6"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:paddingLeft="5dp"
+			android:paddingRight="5dp"
+			android:orientation="vertical">
+
+			<TextView
+				android:id="@+id/textview5"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:focusable="false"
+				android:fontFamily="@font/poppins_medium"
+				android:padding="8dp"
+				android:text="Allowed Departments"
+				android:textColor="#BDBDBD"
+				android:textSize="14sp" />
+			<LinearLayout
+				android:id="@+id/linear8"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:paddingLeft="8dp"
+				android:paddingRight="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="horizontal">
+
+				<TextView
+					android:id="@+id/d1"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginRight="10dp"
+					android:background="#F2F2F2"
+					android:focusable="false"
+					android:fontFamily="@font/poppins_medium"
+					android:padding="8dp"
+					android:textColor="#000000"
+					android:textSize="12sp" />
+
+				<TextView
+					android:id="@+id/d2"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginRight="10dp"
+					android:background="#F2F2F2"
+					android:focusable="false"
+					android:fontFamily="@font/poppins_medium"
+					android:padding="8dp"
+					android:textColor="#000000"
+					android:textSize="12sp" />
+
+				<TextView
+					android:id="@+id/d3"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginRight="10dp"
+					android:background="#F2F2F2"
+					android:focusable="false"
+					android:fontFamily="@font/poppins_medium"
+					android:padding="8dp"
+					android:textColor="#000000"
+					android:textSize="12sp" />
+
+				<TextView
+					android:id="@+id/d4"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginRight="10dp"
+					android:background="#F2F2F2"
+					android:focusable="false"
+					android:fontFamily="@font/poppins_medium"
+					android:padding="8dp"
+					android:textColor="#000000"
+					android:textSize="12sp" />
+
+				<TextView
+					android:id="@+id/d5"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="#F2F2F2"
+					android:focusable="false"
+					android:fontFamily="@font/poppins_medium"
+					android:padding="8dp"
+					android:textColor="#000000"
+					android:textSize="12sp" />
+			</LinearLayout>
+			<LinearLayout
+				android:id="@+id/linear9"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="right"
+				android:orientation="horizontal">
+				<TextView
+					android:id="@+id/registerbtn"
+					android:focusable="false"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:paddingLeft="10dp"
+					android:paddingTop="8dp"
+					android:paddingRight="10dp"
+					android:paddingBottom="8dp"
+					android:background="#FF2842"
+					android:text="Register"
+					android:textSize="12sp"
+					android:textStyle="bold"
+					android:textColor="#FFFFFF"/>
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

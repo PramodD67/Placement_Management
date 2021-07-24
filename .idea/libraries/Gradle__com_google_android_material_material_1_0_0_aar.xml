@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.material:material:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/651cd847618e201fd5f823c7f62643fa/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/651cd847618e201fd5f823c7f62643fa/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/651cd847618e201fd5f823c7f62643fa/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/651cd847618e201fd5f823c7f62643fa/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

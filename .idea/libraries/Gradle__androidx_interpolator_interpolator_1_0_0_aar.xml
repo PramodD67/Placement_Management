@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.interpolator:interpolator:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/d0fb331183819576a5ce4a58012c0a9a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/d0fb331183819576a5ce4a58012c0a9a/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/d0fb331183819576a5ce4a58012c0a9a/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/modules-2/files-2.1/androidx.interpolator/interpolator/1.0.0/fefd5e3cbc479b6b4a9532d05688a1e659e8d3d2/interpolator-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

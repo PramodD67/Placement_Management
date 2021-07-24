@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tasks:17.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/e2f19c8b7625d255f10a81e7fb94143e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/e2f19c8b7625d255f10a81e7fb94143e/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/e2f19c8b7625d255f10a81e7fb94143e/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-storage:19.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/f7df6145aed1ccb723b22b44dd47a545/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/f7df6145aed1ccb723b22b44dd47a545/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/f7df6145aed1ccb723b22b44dd47a545/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/modules-2/files-2.1/com.google.firebase/firebase-storage/19.0.0/47f392c2ead5de243fa3bd89f117c4ffd9d5402c/firebase-storage-19.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

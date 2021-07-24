@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/ffae89c50e563496ee8b9c4c946e7b03/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/ffae89c50e563496ee8b9c4c946e7b03/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/transforms-2/files-2.1/ffae89c50e563496ee8b9c4c946e7b03/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Android-Email-App-using-Javamail-Api/gradle/wrapper/caches/modules-2/files-2.1/androidx.asynclayoutinflater/asynclayoutinflater/1.0.0/ac4d50701fce5c88dcc514f58e695cd32f05134c/asynclayoutinflater-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
